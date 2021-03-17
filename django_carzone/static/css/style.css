@@ -1301,7 +1301,7 @@ input[type=checkbox]:checked + label:before {
 }
 
 .search-contents{
-    transition: all 0.4 s;
+    transition: all 0.4s;
     display: block;
 }
 
