@@ -1,6 +1,7 @@
-from django.shortcuts import render
+from django.shortcuts import render, get_object_or_404
 
 # Create your views here.
+from cars.models import Car
 
 
 def cars(request):
@@ -8,4 +9,8 @@ def cars(request):
 
 
 def car_detail(request, id):
-  return render(request, 'cars/car_detail.html')
+  single_car = get_object_or_404(Car, pk=id)
+  context = {
+    'single_car': single_car
+  }
+  return render(request, 'cars/car_detail.html', context)
