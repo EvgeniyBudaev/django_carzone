@@ -18,14 +18,21 @@
                           class="nav-link active"
                           {% else %}
                           class="nav-link"
-                          href="{% url 'home' %}"
                           {% endif %}
+                          href="{% url 'home' %}"
                         >
                             Home
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="cars.html">
+                        <a
+                          {% if 'cars' in request.path %}
+                          class="nav-link active"
+                          {% else %}
+                          class="nav-link"
+                          {% endif %}
+                          href="{% url 'cars' %}"
+                        >
                             Cars
                         </a>
                     </li>
@@ -35,8 +42,8 @@
                           class="nav-link active"
                           {% else %}
                           class="nav-link"
-                          href="{% url 'about' %}"
                           {% endif %}
+                          href="{% url 'about' %}"
                         >
                             About
                         </a>
@@ -47,22 +54,20 @@
                           class="nav-link active"
                           {% else %}
                           class="nav-link"
-                          href="{% url 'services' %}"
                           {% endif %}
+                          href="{% url 'services' %}"
                         >
                             Services
                         </a>
                     </li>
-
-
                     <li class="nav-item dropdown">
                         <a
                           {% if 'contact' in request.path %}
                           class="nav-link active"
                           {% else %}
                           class="nav-link"
-                          href="{% url 'contact' %}"
                           {% endif %}
+                          href="{% url 'contact' %}"
                         >Contact</a>
                     </li>
                     <li class="nav-item dropdown m-hide">
