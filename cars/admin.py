@@ -8,7 +8,7 @@ from .models import Car
 
 class CarAdmin(admin.ModelAdmin):
   def thumbnail(self, object):
-    return format_html('<img src="{}" width="40" style="border-radius: 50px; />'.format(object.car_photo.url))
+    return format_html('<img src="{}" width="40" style="border-radius: 50px;" />'.format(object.car_photo.url))
 
   thumbnail.short_description = 'Car Image'
 
@@ -17,6 +17,7 @@ class CarAdmin(admin.ModelAdmin):
   list_editable = ('is_featured',)
   search_fields = ('car_title', 'city', 'model', 'body_style', 'fuel_type')
   list_filter = ('city', 'year', 'model', 'body_style',)
+
 
 
 admin.site.register(Car, CarAdmin)
