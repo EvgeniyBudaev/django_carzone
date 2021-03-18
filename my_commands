@@ -9,3 +9,13 @@ pip install django-multiselectfield
 python manage.py makemigrations
 python manage.py migrate
 python manage.py createsuperuser
+
+
+=== Register ===
+Nick
+Brown
+nick
+brown@gmail.com
+123
+123
+
