@@ -6,6 +6,7 @@ pip install Pillow
 pip install psycopg2
 pip install django-ckeditor
 pip install django-multiselectfield
+pip install django-allauth
 python manage.py makemigrations
 python manage.py migrate
 python manage.py createsuperuser
@@ -18,4 +19,8 @@ nick
 brown@gmail.com
 123
 123
+
+=== Social Accaunt ===
+python manage.py migrate
+python manage.py runserver
 
