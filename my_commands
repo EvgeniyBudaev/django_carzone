@@ -1,5 +1,6 @@
 python manage.py runserver
 python manage.py startapp pages
+python manage.py startapp accounts
 python manage.py collectstatic
 pip install Pillow
 pip install psycopg2
