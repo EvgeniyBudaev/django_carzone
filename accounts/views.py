@@ -9,7 +9,10 @@ def login(request):
 
 
 def register(request):
-  return render(request, 'accounts/register.html')
+  if request.method == 'POST':
+    return redirect('register')
+  else:
+    return render(request, 'accounts/register.html')
 
 
 def dashboard(request):
