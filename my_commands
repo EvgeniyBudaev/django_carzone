@@ -33,3 +33,9 @@ heroku whoami
 pip install gunicorn psycopg2-binary
 pip freeze > requirements.txt
 
+heroku create
+pip install dj-database-url
+pip install whitenoise
+pip freeze > requirements.txt
+heroku open
+
