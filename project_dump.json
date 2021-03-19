@@ -1,0 +1,801 @@
+[
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2017 Ferrari 488 GTB",
+        "state": "AL",
+        "city": "Penza",
+        "color": "White",
+        "model": "488 GTB",
+        "year": 2017,
+        "condition": "Used",
+        "price": 40000,
+        "description": "<p><strong>Ferrari 488 GTB</strong>&nbsp;(Tipo F142M)&nbsp;&mdash;&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C\" title=\"Спортивный автомобиль\">спортивный автомобиль</a>, выпускающийся с 2015 года. Был представлен в феврале 2015 году в&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B0%D0%BD%D0%B5%D0%BB%D0%BB%D0%BE\" title=\"Маранелло\">Маранелло</a>, а его дебют состоялся в марте на&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D1%81%D0%B0%D0%BB%D0%BE%D0%BD\" title=\"Женевский автосалон\">Женевском автосалоне</a><a href=\"https://ru.wikipedia.org/wiki/Ferrari_488#cite_note-1\">[1]</a>. Является заменой&nbsp;<a href=\"https://ru.wikipedia.org/wiki/Ferrari_458_Italia\" title=\"Ferrari 458 Italia\">458 Italia</a>, но имеет ряд конструктивных особенностей, в том числе были внесены небольшие изменения в шасси (для сравнения, автомобиль имеет 80&nbsp;% новых частей).<a href=\"https://ru.wikipedia.org/wiki/Ferrari_488#cite_note-:0-2\">[2]</a></p>\r\n\r\n<p><strong>GTB</strong>&nbsp;&mdash; аббревиатура&nbsp;<em>GranTurismo Berlinetta</em>, а открытая версия носит приставку 488&nbsp;<em>Spider</em>. Предположительная стоимость ожидается от ~&nbsp;<a href=\"https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BB%D0%BB%D0%B0%D1%80_%D0%A1%D0%A8%D0%90\" title=\"Доллар США\">$</a>280000. Спустя 4 года, в свет вышла версия Pista . Авто получил существенно доработанную аэродинамику и улучшение внутренней части . Двигатель стал выдавать 720 лошадиных сил.</p>",
+        "car_photo": "photos/2021/03/17/1902536891.jpg",
+        "car_photo1": "photos/2021/03/17/1902536917.jpg",
+        "car_photo2": "photos/2021/03/17/1902537043.jpg",
+        "car_photo3": "photos/2021/03/17/1902537077.jpg",
+        "car_photo4": "photos/2021/03/17/1902537082.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags",
+        "body_style": "Sport",
+        "engine": "3.4L Mid-Engine V6",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 100000,
+        "doors": "3",
+        "passengers": 2,
+        "vin_no": "KL1UF756E6B195928",
+        "milage": 5,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2021-03-17T09:44:06Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "2017 Ford Edge",
+        "state": "AK",
+        "city": "Saratov",
+        "color": "Black",
+        "model": "Edge",
+        "year": 2017,
+        "condition": "Used",
+        "price": 65000,
+        "description": "<p>Обновлённый вариант среднеразмерного кроссовера 2017 Ford Edge будет первым, поступившим на европейские рынки. Прошлое поколение использовало платформу CD3. Его выпускали в канадском комплексе Оквилл в Онтарио, и там же Форд намерен производить второе поколение, которое было представлено ещё в 2015-м. В течение двух лет автопроизводитель не делал серьёзных изменений, но в преддверии 2017 модельного года решился на обширный редизайн. С улучшенным диапазоном мощности и пересмотренным интерьером в этом году автомобиль должен взять более высокую планку по сравнению с продажами 124120 единиц на одном только рынке Северной Америки. В связи с увеличением спроса со стороны поклонников кроссоверов в Европе Форд решил поставлять эту модель и на европейский рынок.</p>",
+        "car_photo": "photos/2021/03/17/1901478607.jpg",
+        "car_photo1": "photos/2021/03/17/1901478618.jpg",
+        "car_photo2": "photos/2021/03/17/1901478646.jpg",
+        "car_photo3": "photos/2021/03/17/1901478672.jpg",
+        "car_photo4": "photos/2021/03/17/1901478687.jpg",
+        "features": "Air Conditioning,Seat Heating",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V7",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 148000,
+        "doors": "5",
+        "passengers": 7,
+        "vin_no": "ZFA18800004473122",
+        "milage": 8,
+        "fuel_type": "Petrol",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2021-03-17T12:44:41Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "2017 Ford F-250 Super Duty",
+        "state": "CA",
+        "city": "Volgograd",
+        "color": "Black",
+        "model": "F-250",
+        "year": 2017,
+        "condition": "Used",
+        "price": 236000,
+        "description": "<p>We all know that person who makes a resolution each new year. The one who promises to better himself and become stronger, smarter, and more capable. The&nbsp;<a href=\"https://www.caranddriver.com/ford/super-duty\" target=\"_self\">Ford F-250</a>&nbsp;promises much as it enters the 2017 model year. Dearborn&rsquo;s heavy-duty hauler is all-new from the ground up, and it&rsquo;s as if it were hellbent on self-improvement.</p>",
+        "car_photo": "photos/2021/03/17/1894300894.jpg",
+        "car_photo1": "photos/2021/03/17/1894300905.jpg",
+        "car_photo2": "photos/2021/03/17/1894300920.jpg",
+        "car_photo3": "photos/2021/03/17/1900155012.jpg",
+        "car_photo4": "photos/2021/03/17/1900155133.jpg",
+        "features": "Audio Interface",
+        "body_style": "SUV",
+        "engine": "6.7L 8cyl Turbo Turbodiesel 6A",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 350000,
+        "doors": "2",
+        "passengers": 2,
+        "vin_no": "JHLRE48577C415490",
+        "milage": 5,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2021-03-17T12:47:49Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "2017 Jaguar F-PACE",
+        "state": "CO",
+        "city": "Podolsk",
+        "color": "Grey",
+        "model": "F-PACE",
+        "year": 2017,
+        "condition": "Used",
+        "price": 450000,
+        "description": "<p>The 2017 Jaguar F-Pace is a fun-to-drive vehicle with a roomy cabin. However, it holds a midpack ranking in the class because of its dated infotainment system and weak base engine</p>",
+        "car_photo": "photos/2021/03/17/1902932542.jpg",
+        "car_photo1": "photos/2021/03/17/1902932503.jpg",
+        "car_photo2": "photos/2021/03/17/1902932514.jpg",
+        "car_photo3": "photos/2021/03/17/1902932528.jpg",
+        "car_photo4": "",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating",
+        "body_style": "SUV",
+        "engine": "3.0 л / 340 л.с. / Бензин",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 78000,
+        "doors": "5",
+        "passengers": 4,
+        "vin_no": "KMHBT31GP3U013758",
+        "milage": 7,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2021-03-17T12:51:24Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "car_title": "2018 Toyota 4Runner",
+        "state": "DC",
+        "city": "Moscow",
+        "color": "Silver",
+        "model": "4Runner",
+        "year": 2018,
+        "condition": "Used",
+        "price": 32000,
+        "description": "<p>Новый японский внедорожник Toyota 4Runner пятого поколения дебютировал в сентябре 2009 года. Автомобиль стал длиннее и шире по сравнению с предшественником. Габаритная длина модели равна 4 823 мм (величина колесной базы 2 789), ширина &mdash; 1 925, высота &mdash; 1 816.</p>\r\n\r\n<p>&nbsp;</p>",
+        "car_photo": "photos/2021/03/17/1893633875.jpg",
+        "car_photo1": "photos/2021/03/17/1893633879.jpg",
+        "car_photo2": "photos/2021/03/17/1893633884.jpg",
+        "car_photo3": "photos/2021/03/17/1896836883.jpg",
+        "car_photo4": "photos/2021/03/17/1896836887.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating",
+        "body_style": "SUV",
+        "engine": "1GR-FE",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 15000,
+        "doors": "5",
+        "passengers": 4,
+        "vin_no": "KNDJC733545301768",
+        "milage": 14,
+        "fuel_type": "Diesel",
+        "no_of_owners": "1",
+        "is_featured": false,
+        "created_date": "2021-03-17T16:01:15Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 6,
+    "fields": {
+        "car_title": "2018 Toyota Corolla",
+        "state": "CT",
+        "city": "Sochi",
+        "color": "White",
+        "model": "Corolla",
+        "year": 2018,
+        "condition": "Used",
+        "price": 14000,
+        "description": "<p>Автомобиль Toyota Corolla 2018 года выпуска с пробегом 14000 км .<br />\r\n<br />\r\nНа автомобиле выполнена полная техническая диагностика по 136 пунктам, проверка ЛКП кузова проведена специалистами, сертифицированными автопроизводителем .<br />\r\nАвтомобиль прошел предпродажную подготовку .</p>",
+        "car_photo": "photos/2021/03/17/1900893299.jpg",
+        "car_photo1": "photos/2021/03/17/1900893311.jpg",
+        "car_photo2": "photos/2021/03/17/1900893319.jpg",
+        "car_photo3": "photos/2021/03/17/1900893329.jpg",
+        "car_photo4": "photos/2021/03/17/1900893391.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating",
+        "body_style": "Manual",
+        "engine": "1.8 л / 140 л.с. / Бензин",
+        "transmission": "Automatic",
+        "interior": "Beige",
+        "miles": 98000,
+        "doors": "5",
+        "passengers": 4,
+        "vin_no": "SALFA28B57H011265",
+        "milage": 11,
+        "fuel_type": "Diesel",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2021-03-17T16:04:08Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 1,
+    "fields": {
+        "first_name": "Evgeniy",
+        "last_name": "Budaev",
+        "designation": "Frontend developer",
+        "photo": "photos/2021/03/16/avatar-3.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://twitter.com/",
+        "google_plus_link": "https://google.com/",
+        "created_date": "2021-03-16T14:49:24.952Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Martin",
+        "last_name": "Smith",
+        "designation": "Founder",
+        "photo": "photos/2021/03/16/avatar-11.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://twitter.com/",
+        "google_plus_link": "https://google.com/",
+        "created_date": "2021-03-16T15:01:50.963Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "Stone",
+        "last_name": "Carolyn",
+        "designation": "Creative Director",
+        "photo": "photos/2021/03/16/avatar-9.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://twitter.com/",
+        "google_plus_link": "https://google.com/",
+        "created_date": "2021-03-16T15:02:23.242Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "Brandor",
+        "last_name": "Miller",
+        "designation": "Co-Founder",
+        "photo": "photos/2021/03/16/avatar-1.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://twitter.com/",
+        "google_plus_link": "https://google.com/",
+        "created_date": "2021-03-16T15:03:05.811Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "designation": "CEO",
+        "photo": "photos/2021/03/16/avatar-12.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://twitter.com/",
+        "google_plus_link": "https://google.com/",
+        "created_date": "2021-03-16T15:03:49.397Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 6,
+    "fields": {
+        "first_name": "Michelle",
+        "last_name": "Nelson",
+        "designation": "Support Manager",
+        "photo": "photos/2021/03/16/avatar-10.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://twitter.com/",
+        "google_plus_link": "https://google.com/",
+        "created_date": "2021-03-16T15:04:42.666Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 1,
+    "fields": {
+        "first_name": "Nick",
+        "last_name": "Brown",
+        "car_id": 3,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ford F-250 Super Duty ",
+        "city": "Moscow",
+        "state": "MO",
+        "email": "brown@mail.ru",
+        "phone": "+7 (444) 444-44-44",
+        "message": "I need this auto!",
+        "user_id": 1,
+        "created_date": "2021-03-19T10:34:42.602Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 2,
+    "fields": {
+        "first_name": "Nick",
+        "last_name": "Brown",
+        "car_id": 3,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ford F-250 Super Duty ",
+        "city": "Moscow",
+        "state": "MO",
+        "email": "brown@mail.ru",
+        "phone": "+7 (444) 444-44-44",
+        "message": "I need this auto!",
+        "user_id": 1,
+        "created_date": "2021-03-19T10:35:40.113Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 3,
+    "fields": {
+        "first_name": "Nick",
+        "last_name": "Brown",
+        "car_id": 3,
+        "customer_need": "I'm interested in this",
+        "car_title": "2017 Ford F-250 Super Duty ",
+        "city": "Podolsk",
+        "state": "MO",
+        "email": "brown@gmail.com",
+        "phone": "+7 (444) 444-44-44",
+        "message": "Too",
+        "user_id": 2,
+        "created_date": "2021-03-19T10:47:52.057Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 4,
+    "fields": {
+        "first_name": "Nick",
+        "last_name": "Brown",
+        "car_id": 5,
+        "customer_need": "I'm interested in this",
+        "car_title": "2018 Toyota 4Runner ",
+        "city": "Saratov",
+        "state": "SO",
+        "email": "brown@gmail.com",
+        "phone": "+7 (444) 444-44-44",
+        "message": "Тестовое письмо",
+        "user_id": 2,
+        "created_date": "2021-03-19T11:01:31.436Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 5,
+    "fields": {
+        "first_name": "Nick",
+        "last_name": "Brown",
+        "car_id": 4,
+        "customer_need": "I'd like to test drive this",
+        "car_title": "2017 Jaguar F-PACE ",
+        "city": "Volgograd",
+        "state": "VO",
+        "email": "brown@gmail.com",
+        "phone": "+7 (444) 444-44-44",
+        "message": "test",
+        "user_id": 2,
+        "created_date": "2021-03-19T11:39:16.998Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$216000$0ZLRULK69oT1$duzs5PZ1qIW1GJVr5mS2q0zlSKV7sW1tHZEtz+3swbY=",
+        "last_login": "2021-03-19T07:35:56.131Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "Evgeniy",
+        "last_name": "Budaev",
+        "email": "budaev.e@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2021-03-16T14:30:23Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$216000$8asyxHa3QIoc$hCZTkCDX/lomuuxkjcTszbOIUSM8Q0MH/tt65466MPc=",
+        "last_login": "2021-03-19T08:37:13.619Z",
+        "is_superuser": false,
+        "username": "nick",
+        "first_name": "Nick",
+        "last_name": "Brown",
+        "email": "brown@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-03-18T13:42:01.898Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!bFp3Eb5DWDBycw4701S8ADp7kI0ozjN9ga1Mejr0",
+        "last_login": "2021-03-18T15:30:13.509Z",
+        "is_superuser": false,
+        "username": "evgeniy",
+        "first_name": "Evgeniy",
+        "last_name": "Budaev",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2021-03-18T15:30:13.494Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "ya3pxpufxnr1k0kyjjoiimno4dx67852",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAQRf-FtSEgj4JL9_0GMsNMpWogKe3K-O_apAvd3nPOfYkE21rS1nlJM4mL0OL0uyHkB9cd0B3qrcnc6rrMKHdFHrTLsRE_r4f7d1Cgl28dlVMmKNSozMAwOW-ZyZEPEdkOYIM-O8rgkZiUN35yhNpEZgzGWRbvD97SODQ:1lMAj6:XALqQxPeEP0TPYLUwdKkymgBmd_LhgbWOVXpeujc63w",
+        "expire_date": "2021-03-30T14:31:16.922Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "z6n94f3mm3amxik22r7hdmflitoz35lx",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2hCGAJm6dO8ZyDADUjWQlHZlvLs26UK3_733XyrStta4jbzEWdRZWXX63RLxI7cdyJ3arWvubV3mpHdFH3Toa5f8vBzu30GlUb-1SygePGYvBqiwtTghhADkGRmxsCHhBAgFKZOIJUFngiNEnopR7w_q3jhl:1lNAd7:49550oWa4sfDtZ95OqHiz_f0cVv50hHoTZgy-UPSL58",
+        "expire_date": "2021-04-02T08:37:13.621Z"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "google",
+        "name": "Google Login",
+        "client_id": "996484500802-g4slmo4abl5nf88aim9lpqvbjb3en9lv.apps.googleusercontent.com",
+        "secret": "jtd-f78v_gpHipZVFlMWtzqJ",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "evgeniy"
+        ],
+        "provider": "google",
+        "uid": "100824013451650212175",
+        "last_login": "2021-03-18T15:30:13.501Z",
+        "date_joined": "2021-03-18T15:30:13.501Z",
+        "extra_data": "{\"id\": \"100824013451650212175\", \"name\": \"Evgeniy Budaev\", \"given_name\": \"Evgeniy\", \"family_name\": \"Budaev\", \"picture\": \"https://lh6.googleusercontent.com/-5YQFL-bC_LU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckhCA-AFuOD0a7wiI2tLfKcuQoB2g/s96-c/photo.jpg\", \"locale\": \"ru\"}"
+    }
+},
+{
+    "model": "socialaccount.socialtoken",
+    "pk": 1,
+    "fields": {
+        "app": 1,
+        "account": 1,
+        "token": "ya29.a0AfH6SMCek_s2I5RY_PynL6bgXAXxkpYhTxusI_aNaREQzAbIrv9RfG33dOIq8NaRh9nIB9OjqX8h0ivHx5VIBI-os1jm5qbMycV7AZFK30mByQlwR_QiRPkgsCtNL9hyywbKJ-n18-8hBqIOgsxxotBsNo-K",
+        "token_secret": "",
+        "expires_at": "2021-03-18T16:30:12.397Z"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2021-03-16T14:32:07.646Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "admin",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2021-03-16T14:49:24.953Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Team object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2021-03-16T14:59:26.933Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Evgeniy",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2021-03-16T15:01:50.964Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Martin",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2021-03-16T15:02:23.243Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Stone",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2021-03-16T15:03:05.812Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Brandor",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2021-03-16T15:03:49.400Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "John",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2021-03-16T15:04:42.667Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Michelle",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2021-03-17T09:44:19.810Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Car object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2021-03-17T09:47:49.165Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "Car object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2021-03-17T09:51:24.240Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Car object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2021-03-17T09:54:54.974Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "Car object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2021-03-17T13:04:08.616Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "2018 Toyota 4Runner",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2021-03-17T13:06:51.480Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "2018 Toyota Corolla",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2021-03-18T14:57:24.653Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8080",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2021-03-18T15:10:42.206Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Google Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2021-03-18T15:20:20.837Z",
+        "user": [
+            "admin"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+}
+]
