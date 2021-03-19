@@ -39,4 +39,5 @@ pip install whitenoise
 pip freeze > requirements.txt
 heroku open
 heroku run python manage.py loaddata project_dump.json
+git push heroku master
 
