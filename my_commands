@@ -39,5 +39,7 @@ pip install whitenoise
 pip freeze > requirements.txt
 heroku open
 heroku run python manage.py loaddata project_dump.json
+git add -A
+git commit -m "released media folder"
 git push heroku master
 
