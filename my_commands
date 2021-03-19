@@ -38,4 +38,5 @@ pip install dj-database-url
 pip install whitenoise
 pip freeze > requirements.txt
 heroku open
+heroku run python manage.py loaddata project_dump.json
 
