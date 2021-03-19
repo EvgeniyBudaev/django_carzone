@@ -25,3 +25,11 @@ brown@gmail.com
 python manage.py migrate
 python manage.py runserver
 
+=== Heroku, Deploy ===
+pip freeze
+pip freeze > requirements.txt
+heroku login  # далее t и нажать enter и перейдет на страницу cli-auth.heroku.com
+heroku whoami
+pip install gunicorn psycopg2-binary
+pip freeze > requirements.txt
+
